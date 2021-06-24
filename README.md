@@ -32,7 +32,5 @@ python bpt.py check-updates
 
 To update the MySensors packages run the following commands:
 ```
-python bpt.py update-index "MySensors AVR Boards"
-python bpt.py update-index "MySensors SAMD Boards"
-python bpt.py update-index "MySensors nRF5 Boards"
+python bpt.py update-index "MyMySensors SAMD Boards"
 ```
